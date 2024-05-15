@@ -1,0 +1,150 @@
+repo_name: officialmofabs/cloud-network
+report_id: e9176d15ca960c403154ede5d89f211b
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-15T23:25:03+00:00'
+requested_by: officialmofabs
+provider: github
+branch: main
+detected_tools_count: 12
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/officialmofabs/cloud-network/blob/main/www/index.bundle.js
+  detection_source: www/index.bundle.js
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network
+  detection_source: Repo Metadata
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Moses Fabiyi
+  last_updated_on: 2024-05-15 00:55:44.000000000 Z
+- name: Serverless AppSync
+  description: Easily and quickly deploy GraphQL APIs on AWS
+  website_url: https://github.com/serverless-components/aws-app-sync
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: GraphQL Tools
+  image_url: https://img.stackshare.io/service/11394/appsync.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Moses Fabiyi
+  last_updated_on: 2024-05-15 00:55:44.000000000 Z
+- name: Apache Maven
+  description: Apache build manager for Java projects.
+  website_url: http://maven.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network/blob/main/the-ros-elearning-project.git/containers-with-mo-remoteworking/Dockerfile
+  detection_source: the-ros-elearning-project.git/containers-with-mo-remoteworking/Dockerfile
+  last_updated_by: Moses Fabiyi
+  last_updated_on: 2024-02-21 03:37:49.000000000 Z
+- name: Bash-My-AWS
+  description: CLI Commands for AWS
+  website_url: https://bash-my-aws.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: AWS Tools
+  image_url: https://img.stackshare.io/service/11642/no-img.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network/blob/main/the-ros-elearning-project.git/containers-with-mo-remoteworking/Dockerfile
+  detection_source: the-ros-elearning-project.git/containers-with-mo-remoteworking/Dockerfile
+  last_updated_by: Moses Fabiyi
+  last_updated_on: 2024-02-21 03:37:49.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network
+  detection_source: Repo Metadata
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network/blob/main/netboot.xyz/root/defaults/nginx.conf
+  detection_source: netboot.xyz/root/defaults/nginx.conf
+  last_updated_by: Moses Fabiyi
+  last_updated_on: 2024-02-21 03:40:19.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network/blob/main/netboot.xyz/Dockerfile
+  detection_source: netboot.xyz/Dockerfile
+  last_updated_by: Moses Fabiyi
+  last_updated_on: 2024-02-21 03:40:19.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/officialmofabs/cloud-network
+  detection_source: Repo Metadata
